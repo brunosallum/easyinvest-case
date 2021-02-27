@@ -29,6 +29,7 @@ namespace Dojo.Application
             services.AddTransient<IPurchaseOrderRepository, PurchaseOrderRepository>();
             services.AddTransient<IClientService, ClientService>();
             services.AddTransient<IProductService, ProductService>();
+
             services.AddSwaggerGen(swagger =>
             {
                 swagger.SwaggerDoc("v1", new OpenApiInfo { Title = "Easyinvest API" });
