@@ -1,9 +1,0 @@
-D:\Projetos\Processos Seletivos\EASYINVEST\dojoddd\Dojo.Infra.Data\bin\Debug\netcoreapp3.1\Dojo.Infra.Data.deps.json
-D:\Projetos\Processos Seletivos\EASYINVEST\dojoddd\Dojo.Infra.Data\bin\Debug\netcoreapp3.1\Dojo.Infra.Data.dll
-D:\Projetos\Processos Seletivos\EASYINVEST\dojoddd\Dojo.Infra.Data\bin\Debug\netcoreapp3.1\Dojo.Infra.Data.pdb
-D:\Projetos\Processos Seletivos\EASYINVEST\dojoddd\Dojo.Infra.Data\obj\Debug\netcoreapp3.1\Dojo.Infra.Data.csprojAssemblyReference.cache
-D:\Projetos\Processos Seletivos\EASYINVEST\dojoddd\Dojo.Infra.Data\obj\Debug\netcoreapp3.1\Dojo.Infra.Data.AssemblyInfoInputs.cache
-D:\Projetos\Processos Seletivos\EASYINVEST\dojoddd\Dojo.Infra.Data\obj\Debug\netcoreapp3.1\Dojo.Infra.Data.AssemblyInfo.cs
-D:\Projetos\Processos Seletivos\EASYINVEST\dojoddd\Dojo.Infra.Data\obj\Debug\netcoreapp3.1\Dojo.Infra.Data.csproj.CoreCompileInputs.cache
-D:\Projetos\Processos Seletivos\EASYINVEST\dojoddd\Dojo.Infra.Data\obj\Debug\netcoreapp3.1\Dojo.Infra.Data.dll
-D:\Projetos\Processos Seletivos\EASYINVEST\dojoddd\Dojo.Infra.Data\obj\Debug\netcoreapp3.1\Dojo.Infra.Data.pdb

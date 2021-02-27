@@ -1,9 +1,0 @@
-D:\Projetos\Processos Seletivos\EASYINVEST\dojoddd\Dojo.Helpers\bin\Debug\netcoreapp3.1\Dojo.Helpers.deps.json
-D:\Projetos\Processos Seletivos\EASYINVEST\dojoddd\Dojo.Helpers\bin\Debug\netcoreapp3.1\Dojo.Helpers.dll
-D:\Projetos\Processos Seletivos\EASYINVEST\dojoddd\Dojo.Helpers\bin\Debug\netcoreapp3.1\Dojo.Helpers.pdb
-D:\Projetos\Processos Seletivos\EASYINVEST\dojoddd\Dojo.Helpers\obj\Debug\netcoreapp3.1\Dojo.Helpers.csprojAssemblyReference.cache
-D:\Projetos\Processos Seletivos\EASYINVEST\dojoddd\Dojo.Helpers\obj\Debug\netcoreapp3.1\Dojo.Helpers.AssemblyInfoInputs.cache
-D:\Projetos\Processos Seletivos\EASYINVEST\dojoddd\Dojo.Helpers\obj\Debug\netcoreapp3.1\Dojo.Helpers.AssemblyInfo.cs
-D:\Projetos\Processos Seletivos\EASYINVEST\dojoddd\Dojo.Helpers\obj\Debug\netcoreapp3.1\Dojo.Helpers.csproj.CoreCompileInputs.cache
-D:\Projetos\Processos Seletivos\EASYINVEST\dojoddd\Dojo.Helpers\obj\Debug\netcoreapp3.1\Dojo.Helpers.dll
-D:\Projetos\Processos Seletivos\EASYINVEST\dojoddd\Dojo.Helpers\obj\Debug\netcoreapp3.1\Dojo.Helpers.pdb
