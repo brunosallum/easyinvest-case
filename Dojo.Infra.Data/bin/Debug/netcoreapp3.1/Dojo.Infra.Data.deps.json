@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dojo.Infra.Data/1.0.0": {
+        "runtime": {
+          "Dojo.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dojo.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

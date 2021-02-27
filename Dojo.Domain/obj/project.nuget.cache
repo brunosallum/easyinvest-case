@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QUzyEQh0/bTGmFZdo8wcSgSEov7LDRVkK3fxJe9mwapfBVID0Uyyj2F37P9FeJCzheASLgy/1uhEvzwmq6+rJA==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Processos Seletivos\\EASYINVEST\\dojoddd\\Dojo.Domain\\Dojo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\bogus\\33.0.2\\bogus.33.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.5.1\\fluentvalidation.aspnetcore.9.5.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.5.1\\fluentvalidation.dependencyinjectionextensions.9.5.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
